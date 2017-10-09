@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 title: X-Flix
 description: The premier rental site for movies and games.
 google_analytics: UA-107786358-1
+
+plugins:
+  - jekyll-sitemap
