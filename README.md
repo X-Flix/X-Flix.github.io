@@ -1,3 +1,3 @@
-[Documents.md](Documents)
-[AboutUs.md](About Us)
+[Documents](Documents.md)
+[About Us](AboutUs.md)
 # X-Flix.github.io
